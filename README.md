@@ -3,6 +3,6 @@
 ### Education 
 Bachelor's Computers and Information, Bioinformatics
 
-###Projects
+### Projects
 
 
